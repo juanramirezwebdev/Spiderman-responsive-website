@@ -1,0 +1,84 @@
+.sam {
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+   padding: 10px;
+   text-shadow: 2px 2px red;
+  
+}
+
+.marc{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+   padding: 10px;
+   text-shadow: 2px 2px red;
+
+}
+
+.jon {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 2px 2px red;
+
+}
+
+body {
+ background-color:#FFFDA2 ;
+}
+
+.spidey{
+ border-radius: 100px;
+ text-align: center;
+ 
+}
+.col {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+
+#spidey {
+
+margin-top: 20px;
+
+
+}
+
+.description {
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+#description {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.movie {
+
+ border-radius: 100px;
+}
+#spu { 
+   width:80%; height:50%; }
+
+   #spd { 
+    width:80%; height:50%; }
+
+    #spt { 
+        width:80%; height:50%; }
+
+.trailers {
+
+ text-align: center;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ text-shadow: 1px 1px red;
+}
+
+.moviet {
+
+    margin-left: 350px;
+
+    }
+
